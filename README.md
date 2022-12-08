@@ -18,7 +18,10 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joemersonpires&bg_color=0d1117&color=4c7b9e&line=0876dd&point=050df5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ 
+<div align="center">
+ <a href="https://www.linkedin.com/in/joemerson-pires-0089a3250" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" align="center"></a>
+ </div>
 
 ![snake animation](https://github.com/joemersonpires/joemersonpires/blob/output/github-contribution-grid-snake.svg)
 
