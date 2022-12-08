@@ -23,6 +23,5 @@
  <a href="https://www.linkedin.com/in/joemerson-pires-0089a3250" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" align="center"></a>
  </div>
 
-![snake animation](https://github.com/joemersonpires/joemersonpires/blob/output/github-contribution-grid-snake.svg)
 
 <img align="center" height="200" wudth=160em src="https://capsule-render.vercel.app/api?type=waving&color=1E90F8&height=120&section=footer"/>
